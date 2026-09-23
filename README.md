@@ -1,2 +1,2 @@
-# BASIC-STUFF
-BASICS
+#AI TRAINING
+AI training
